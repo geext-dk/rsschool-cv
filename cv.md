@@ -65,3 +65,11 @@ C#, ASP.NET, ElasticSearch, Swagger, RabbitMQ, Linux, Git, Docker, SQL
 * PC Games
 * Anime
 * Investment
+
+## Code examples
+### Codewars
+```typescript
+export function multiply(a: number, b: number): number {
+  return a * b;
+}
+```
