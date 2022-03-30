@@ -23,6 +23,9 @@ http://linkedin.com/in/geext
 ### Residential address
 Budva, Montenegro
 
+### Discord
+GeeXT#1252
+
 ## Experience
 ### Fullstack Developer at Eveon Containers (June 2021 - Present)
 Eveon is a small startup company that develops its own online shop for selling shipping containers online.
