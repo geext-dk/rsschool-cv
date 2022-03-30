@@ -1,4 +1,5 @@
 # Denis Karpovskii
+![Photo of me](./images/ava_f2020_small.png)
 ## Fullstack Developer
 
 NET backend engineer with 2 years of work experience, studying in the final year at university and also interested in frontend development
